@@ -1,1 +1,1 @@
-Primeira linha do arquivo 4
+Alterando arquivo 4 para gerar conflito
