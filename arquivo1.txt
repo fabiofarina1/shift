@@ -1,9 +1,9 @@
 
-Mod 3
-Mod 4 ----------
-Mod 5 ----------
-Mod 6
 Mod 1
-Mod 2
+Mod 2 ----------
+Mod 3 ----------
+Mod 4
+Mod 5
+Mod 6
 Qualquer outra coisa
-Mod 3
+Mod Fim
